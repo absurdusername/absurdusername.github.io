@@ -4,6 +4,10 @@ title: Home
 
 ## First post
 
+[About me](about.md)
+
+
+
 To be, or not to be, that is the question:
 Whether 'tis nobler in the mind to suffer
 The slings and arrows of outrageous fortune,
