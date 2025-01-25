@@ -4,7 +4,7 @@ title: Home
 
 ## First post
 
-[About me](about.md)
+[About me]({% link about.md %})
 
 
 
